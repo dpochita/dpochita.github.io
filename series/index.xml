@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Bocchi&#39;s Blog</title>
-    <link>https://www.132610.xyz/series/</link>
+    <link>https://dpochita.github.io/series/</link>
     <description>Recent content in Series on Bocchi&#39;s Blog</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>zh</language>
-    <atom:link href="https://www.132610.xyz/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dpochita.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
